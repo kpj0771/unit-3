@@ -1,0 +1,45 @@
+﻿body {
+}
+.wrapper {
+    width: 900px;
+}
+
+.header {
+    height: 100px;
+    width: 900px;
+    float: left;
+    background-color: #ffd800;
+}
+
+.container {
+    width: 900px;
+    height: 1200px;
+    float: left;
+    background-color:khaki;
+}
+.mainContent {
+    height: 1200px;
+    width: 900px;
+    float: left;
+    background-color: #4cff00;
+}
+
+
+
+.innerContent {
+    text-align: left;
+    padding-left: 30px;
+}
+
+.footer {
+    background-color: #dfd5ec;
+    width: 900px;
+    height: 100px;
+    float: left;
+    padding-top:50px;
+}
+
+.footer_logo {
+    float: left;
+    padding-top:50px;
+}
